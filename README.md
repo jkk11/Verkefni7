@@ -1,0 +1,2 @@
+# Verkefni7
+Javascript
